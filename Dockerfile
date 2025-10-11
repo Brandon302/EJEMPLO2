@@ -1,5 +1,5 @@
 
-FROM python.3.13.2-1lpine3.21
+FROM python.3.13.2-1
 
 WORKDIR /app
 
